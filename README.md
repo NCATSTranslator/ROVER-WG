@@ -16,10 +16,16 @@ This is a repo created for the ROVER (Relationships and Outreach for Visible Eng
 **Slack channel:** #user-outreach-wg
 
 **Y1 voting membership:**
+
 Kara Fecho ( DOGSLED, Lead)
+
 Simon King (UI [non-voting], PM)
+
 Reese Rose (UI)
+
 Alex Pico (DOGSURF)
+
 Guangrong Qin (CATRAX)
+
 Kihwa Kang (Link Brokers)
 
